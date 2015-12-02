@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/jnicholas/p4dev'
+let g:netrw_dirhist_2='/Users/jnicholas/p4dev/quicksync/puppet/modules/systemclass/manifests/basic/elasticsearch'
+let g:netrw_dirhist_3='/Users/jnicholas/p4dev/quicksync/hot_templates/lib'
+let g:netrw_dirhist_4='/Users/jnicholas/p4dev/quicksync/puppet/modules/systemclass/manifests/basic'
+let g:netrw_dirhist_5='/Users/jnicholas/p4dev/quicksync/puppet/modules/nagios/manifests/client'
+let g:netrw_dirhist_6='/Users/jnicholas/p4dev/quicksync/puppet/modules/logrotate'
+let g:netrw_dirhist_7='/Users/jnicholas/esbench/esbench'
+let g:netrw_dirhist_8='/Users/jnicholas/p4dev/quicksync/puppet/modules/systemclass/manifests/basic/athena/webserver'
